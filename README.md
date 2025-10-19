@@ -94,6 +94,9 @@
    MONGODB_URI=mongodb://localhost:27017/arnav-events
    JWT_SECRET=your-secret-key
    PORT=5001
+   
+   # Create frontend environment file
+   echo "NEXT_PUBLIC_API_URL=http://localhost:5001/api" > frontend/.env.local
    ```
 
 4. **Start the application**
@@ -109,6 +112,25 @@
    - **Frontend**: http://localhost:3000
    - **Backend API**: http://localhost:5001
    - **API Health**: http://localhost:5001/api/health
+
+## 🔑 Login Credentials
+
+### **Default Admin Account**
+- **Username**: `admin`
+- **Password**: `admin123`
+- **Role**: Admin
+- **Access**: Full admin dashboard access
+
+### **Super Admin Account**
+- **Username**: `superadmin`
+- **Password**: `SuperAdmin123!`
+- **Role**: Super Admin
+- **Access**: Full system access with elevated privileges
+
+### **How to Login**
+1. Go to `http://localhost:3000/auth/login`
+2. Enter either set of credentials above
+3. Click "Sign in" to access the admin dashboard
 
 
 ## 📚 Documentation

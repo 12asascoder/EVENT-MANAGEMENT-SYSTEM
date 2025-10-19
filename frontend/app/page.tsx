@@ -72,7 +72,7 @@ export default function Home() {
             <div className="flex justify-between items-center py-2 sm:py-3 px-3 sm:px-6">
               <div className="flex items-center">
                 <StampLogo size="w-6 h-6 sm:w-8 sm:h-8" className="mr-2" />
-                <h1 className="text-lg sm:text-xl font-bold text-foreground font-orbitron tracking-wider">ARNAV'S EVENTS</h1>
+                <h1 className="text-lg sm:text-xl font-bold text-foreground font-orbitron tracking-wider">ARNAV&apos;S EVENTS</h1>
               </div>
               <nav className="flex items-center space-x-2 sm:space-x-6">
                 <Link 
@@ -101,7 +101,7 @@ export default function Home() {
           
           <h1 className="text-4xl sm:text-5xl md:text-8xl lg:text-9xl font-black text-foreground mb-4 sm:mb-6 leading-tight">
             <span className="block font-orbitron font-bold tracking-wider text-transparent bg-clip-text bg-gradient-to-r from-primary via-primary/80 to-primary/60 cursor-default">
-              ARNAV'S EVENTS
+              ARNAV&apos;S EVENTS
             </span>
             <span className="block text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-playfair font-semibold text-primary/90 mt-1 cursor-default">
               Event Management
@@ -139,7 +139,7 @@ export default function Home() {
       <section className="container py-12 sm:py-20">
         <div className="text-center mb-12 sm:mb-16">
           <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-foreground mb-4">
-            Why Choose <span className="text-primary">ARNAV'S EVENTS</span>?
+            Why Choose <span className="text-primary">ARNAV&apos;S EVENTS</span>?
           </h2>
           <p className="text-base sm:text-lg text-muted-foreground max-w-2xl mx-auto px-4">
             Experience the future of event management with our cutting-edge platform
@@ -185,7 +185,7 @@ export default function Home() {
           <div className="text-center">
             <div className="flex items-center justify-center mb-4">
               <StampLogo size="w-6 h-6 sm:w-8 sm:h-8" className="mr-2" />
-              <h3 className="text-base sm:text-lg font-bold text-foreground font-orbitron tracking-wider">ARNAV'S EVENTS</h3>
+              <h3 className="text-base sm:text-lg font-bold text-foreground font-orbitron tracking-wider">ARNAV&apos;S EVENTS</h3>
             </div>
               <div className="text-xs sm:text-sm text-muted-foreground mt-4 px-4">
                 Built with ❤️ by <a href="https://github.com/arnavpuggal" className="text-primary hover:text-primary/80 transition-colors duration-200">Arnav Puggal</a>
