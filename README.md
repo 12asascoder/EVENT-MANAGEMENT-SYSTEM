@@ -110,17 +110,6 @@
    - **Backend API**: http://localhost:5001
    - **API Health**: http://localhost:5001/api/health
 
-## 📱 Screenshots
-
-<div align="center">
-
-### 🏠 Landing Page
-<img src="assets/website.png" alt="EventFlow Pro Landing Page" width="800" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);"/>
-
-### 📊 Admin Dashboard
-<img src="assets/admin-dashboard.png" alt="EventFlow Pro Admin Dashboard" width="800" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);"/>
-
-</div>
 
 ## 📚 Documentation
 
